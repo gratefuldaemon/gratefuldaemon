@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oddfeed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oddfeed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+# Links
+- [neocities](https://alienatefurther.neocities.org/) - My main page
+- [blog](https://alienatefurther.neocities.org/blog/) - Personal blog I also generate epub files based on tags [here](https://alienatefurther.neocities.org/blog/epub/)
+- [brain](https://alienatefurther.neocities.org/brain/) - An export of my obsidian vault
+- [slides](https://alienatefurther.neocities.org/blog/slides/) - Markdown slides converted to html files 
