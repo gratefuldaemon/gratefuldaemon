@@ -3,6 +3,7 @@
 - [blog](https://alienatefurther.neocities.org/blog/) - Personal blog I also generate epub files based on tags [here](https://alienatefurther.neocities.org/blog/epub/)
 - [brain](https://alienatefurther.neocities.org/brain/) - An export of my obsidian vault
 - [slides](https://alienatefurther.neocities.org/blog/slides/) - Markdown slides converted to html files 
+- [bookclub](https://github.com/oddfeed/bookclub) - Resources and notes from a bookclub I have with a friend
 
 # Mirrors on github
 - [brain](https://oddfeed.github.io/brain/index.html)
