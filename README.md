@@ -18,9 +18,3 @@
 - [Things As Organisms](https://oddfeed.github.io/blog/Things-as-organisms/)
 - [Accelerating Toward The Extreme](https://oddfeed.github.io/blog/Accelerating-toward-the-extreme/)
 <!-- BLOG-POST-LIST:END -->
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oddfeed&show_icons=true&locale=en&layout=compact" alt="oddfeed" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oddfeed&show_icons=true&theme=synthwave&locale=en" alt="oddfeed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oddfeed&" alt="oddfeed" /></p>
