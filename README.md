@@ -5,6 +5,7 @@
 - [bookclub](https://github.com/oddfeed/bookclub) - Resources and notes from a bookclub I have with a friend
 
 <h1 align="center">Hello I'm ODDFEED</h1>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Instant Messaging Is Dumb](https://oddfeed.github.io/blog/Instant-messaging-is-dumb/)
