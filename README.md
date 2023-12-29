@@ -1,3 +1,6 @@
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oddfeed&show_icons=true&locale=en&layout=donut-vertical" alt="oddfeed" /></p>
+
+
 # Links
 - [blog](https://oddfeed.github.io/blog/) // [repo](https://github.com/oddfeed/blog) - Personal blog
 - [brain](https://oddfeed.github.io/brain/index.html) // [repo](https://github.com/oddfeed/brain) - An export of my obsidian vault
@@ -19,3 +22,6 @@
 - [Things As Organisms](https://oddfeed.github.io/blog/Things-as-organisms/)
 - [Accelerating Toward The Extreme](https://oddfeed.github.io/blog/Accelerating-toward-the-extreme/)
 <!-- BLOG-POST-LIST:END -->
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oddfeed&" alt="oddfeed" /></p>
