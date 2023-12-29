@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oddfeed&show_icons=true&locale=en&layout=donut-vertical" alt="oddfeed" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oddfeed&" alt="oddfeed" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oddfeed&show_icons=true&locale=en&layout=compact" alt="oddfeed" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oddfeed&" alt="oddfeed" /></p>
 
 # Links
 - [blog](https://oddfeed.github.io/blog/) // [repo](https://github.com/oddfeed/blog) - Personal blog
@@ -8,7 +8,7 @@
 
 <h1 align="center">Hello I'm ODDFEED</h1>
 
-### Blogs posts
+### Blogs posts (8 most recent)
 <!-- BLOG-POST-LIST:START -->
 - [Instant Messaging Is Dumb](https://oddfeed.github.io/blog/Instant-messaging-is-dumb/)
 - [I Dont Have A Dream Library You Posh Cretin](https://oddfeed.github.io/blog/I-dont-have-a-dream-library-you-posh-cretin/)
