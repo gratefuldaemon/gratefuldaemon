@@ -1,5 +1,4 @@
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oddfeed&show_icons=true&locale=en&layout=donut-vertical" alt="oddfeed" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oddfeed&show_icons=true&locale=en&layout=donut-vertical" alt="oddfeed" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=oddfeed&" alt="oddfeed" /></p>
 
 # Links
 - [blog](https://oddfeed.github.io/blog/) // [repo](https://github.com/oddfeed/blog) - Personal blog
@@ -24,4 +23,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oddfeed&" alt="oddfeed" /></p>
+
