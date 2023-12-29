@@ -11,6 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Instant Messaging Is Dumb](https://oddfeed.github.io/blog/Instant-messaging-is-dumb/)
+- [I Dont Have A Dream Library You Posh Cretin](https://oddfeed.github.io/blog/I-dont-have-a-dream-library-you-posh-cretin/)
+- [Pirated Minecraft](https://oddfeed.github.io/blog/Pirated-Minecraft/)
+- [Podcasts With Ipod And Rockbox](https://oddfeed.github.io/blog/Podcasts-with-ipod-and-rockbox/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
