@@ -1,5 +1,3 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oddfeed&hide_border=true&mode=weekly&card_width=850" alt="oddfeed" /></p>
-
 # Links
 - [blog](https://oddfeed.github.io/blog/) // [repo](https://github.com/oddfeed/blog) - Personal blog
 - [brain](https://oddfeed.github.io/brain/index.html) // [repo](https://github.com/oddfeed/brain) - An export of my obsidian vault
@@ -22,5 +20,5 @@
 - [Accelerating Toward The Extreme](https://oddfeed.github.io/blog/Accelerating-toward-the-extreme/)
 <!-- BLOG-POST-LIST:END -->
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oddfeed&hide_border=true&mode=weekly&card_width=850" alt="oddfeed" /></p>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oddfeed&show_icons=true&locale=en&layout=compact" alt="oddfeed" /></p> -->
