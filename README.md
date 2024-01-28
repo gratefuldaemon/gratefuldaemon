@@ -8,6 +8,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;ai&rpar; Self Image Alignment](https://oddfeed.github.io/blog/(AI)-self-image-alignment/)
 - [Terminally Offline](https://oddfeed.github.io/blog/Terminally-offline/)
 - [December](https://oddfeed.github.io/blog/December/)
 - [Hypertechnology](https://oddfeed.github.io/blog/hypertechnology/)
@@ -15,7 +16,6 @@
 - [I Dont Have A Dream Library You Posh Cretin](https://oddfeed.github.io/blog/I-dont-have-a-dream-library-you-posh-cretin/)
 - [Pirated Minecraft](https://oddfeed.github.io/blog/Pirated-Minecraft/)
 - [Podcasts With Ipod And Rockbox](https://oddfeed.github.io/blog/Podcasts-with-ipod-and-rockbox/)
-- [Your Life Will Get Worse](https://oddfeed.github.io/blog/Your-life-will-get-worse/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oddfeed&hide_border=true&mode=weekly&card_width=850" alt="oddfeed" /></p>
