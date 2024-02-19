@@ -1,5 +1,5 @@
 # Links
-- [blog](https://oddfeed.github.io/blog/) // Personal blog
+- [blog](https://blog.alienate.earth/index.html) // Personal blog
 - [reading](https://oddfeed.github.io/org-exports/reading.html) // My reading list
 - [brain](https://oddfeed.github.io/brain/index.html) // [repo](https://github.com/oddfeed/brain) - An export of my knowledgebase vault
 - [bookclub](https://oddfeed.github.io/bookclub/) // [repo](https://github.com/oddfeed/bookclub) - Resources and notes from a bookclub I have with a friend
