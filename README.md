@@ -1,9 +1,9 @@
 # Links
 - [blog](https://blog.alienate.earth/index.html) // Personal blog
-- [reading](https://oddfeed.github.io/org-exports/reading.html) // My reading list
+- [reading](https://org.alienate.earth/reading.html) // My reading list
 - [brain](https://oddfeed.github.io/brain/index.html) // [repo](https://github.com/oddfeed/brain) - An export of my knowledgebase vault
 - [bookclub](https://oddfeed.github.io/bookclub/) // [repo](https://github.com/oddfeed/bookclub) - Resources and notes from a bookclub I have with a friend
-- [org exports](https://oddfeed.github.io/org-exports/index.html) // All the files from emacs I've manually exported
+- [org exports](https://org.alienate.earth/index.html) // All the files from emacs I've manually exported
 
 <h1 align="center">Hello I'm ODDFEED</h1>
 
@@ -21,6 +21,3 @@
 - [Instant Messaging Is Dumb](https://oddfeed.github.io/blog/Instant-messaging-is-dumb/)
 - [I Dont Have A Dream Library You Posh Cretin](https://oddfeed.github.io/blog/I-dont-have-a-dream-library-you-posh-cretin/)
 <!-- BLOG-POST-LIST:END -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oddfeed&hide_border=true&mode=weekly&card_width=850" alt="oddfeed" /></p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oddfeed&show_icons=true&locale=en&layout=compact" alt="oddfeed" /></p> -->
