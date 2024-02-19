@@ -1,14 +1,14 @@
 # Links
-- [blog](https://blog.alienate.earth/index.html) // Personal blog
+- [blog](https://blog.alienate.earth) // Personal blog
 - [reading](https://org.alienate.earth/reading.html) // My reading list
-- [brain](https://oddfeed.github.io/brain/index.html) // [repo](https://github.com/oddfeed/brain) - An export of my knowledgebase vault
-- [bookclub](https://oddfeed.github.io/bookclub/) // [repo](https://github.com/oddfeed/bookclub) - Resources and notes from a bookclub I have with a friend
-- [org exports](https://org.alienate.earth/index.html) // All the files from emacs I've manually exported
+- [brain](https://brain.alienate.earth) // An export of my knowledgebase vault
+- [bookclub](https://bookclub.alienate.earth) // Resources and notes from a bookclub I have with a friend
+- [org exports](https://org.alienate.earth) // All the files from emacs I've manually exported
 
 <h1 align="center">Hello I'm ODDFEED</h1>
 
 # Youtube
-- [slides](https://oddfeed.github.io/slides/) // [repo](https://github.com/oddfeed/slides) - Markdown slides converted to html files 
+- [slides](https://slides.alienate.earth) // Markdown slides converted to html files 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
