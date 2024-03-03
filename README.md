@@ -13,6 +13,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Risk_taking_as_a_habit](https://blog.alienate.earth/risk_taking_as_a_habit/)
+- [Thought_experiments_are_a_waste_of_thoughts](https://blog.alienate.earth/thought_experiments_are_a_waste_of_thoughts/)
 - [Rokos_basilisk_is_worthless_trash](https://blog.alienate.earth/rokos_basilisk_is_worthless_trash/)
 - [Logical Inconsistencies In Not Giving To The Homeless](https://blog.alienate.earth/Logical-inconsistencies-in-not-giving-to-the-homeless/)
 - [&lpar;ai&rpar; Self Image Alignment](https://blog.alienate.earth/(AI)-self-image-alignment/)
@@ -21,5 +22,4 @@
 - [Hypertechnology](https://blog.alienate.earth/hypertechnology/)
 - [Instant Messaging Is Dumb](https://blog.alienate.earth/Instant-messaging-is-dumb/)
 - [I Dont Have A Dream Library You Posh Cretin](https://blog.alienate.earth/I-dont-have-a-dream-library-you-posh-cretin/)
-- [Pirated Minecraft](https://blog.alienate.earth/Pirated-Minecraft/)
 <!-- BLOG-POST-LIST:END -->
