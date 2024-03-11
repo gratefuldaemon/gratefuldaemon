@@ -1,9 +1,3 @@
-<head>
-<script defer src="https://analytics.goinghome.earth/script.js" 
-data-website-id="61bdcf53-c9fc-4b3f-98ee-5c8bf3814ac8"></script>
-</head>
-
-
 # Links
 - [blog](https://blog.alienate.earth) // Personal blog
 - [reading](https://org.alienate.earth/reading.html) // My reading list
