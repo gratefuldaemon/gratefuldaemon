@@ -12,6 +12,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Slow_drip_poison](https://blog.alienate.earth/slow_drip_poison/)
+- [I_wanna_be_software](https://blog.alienate.earth/i_wanna_be_software/)
 - [A_k_acc_manifesto](https://blog.alienate.earth/a_k_acc_manifesto/)
 - [I_dont_sleep](https://blog.alienate.earth/i_dont_sleep/)
 - [Loneliness](https://blog.alienate.earth/loneliness/)
@@ -20,6 +22,4 @@
 - [Thought_experiments_are_a_waste_of_thoughts](https://blog.alienate.earth/thought_experiments_are_a_waste_of_thoughts/)
 - [Rokos_basilisk_is_worthless_trash](https://blog.alienate.earth/rokos_basilisk_is_worthless_trash/)
 - [Logical Inconsistencies In Not Giving To The Homeless](https://blog.alienate.earth/Logical-inconsistencies-in-not-giving-to-the-homeless/)
-- [Self Image Alignment](https://blog.alienate.earth/Self-image-alignment/)
-- [Terminally Offline](https://blog.alienate.earth/Terminally-offline/)
 <!-- BLOG-POST-LIST:END -->
