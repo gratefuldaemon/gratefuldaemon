@@ -12,14 +12,14 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The_medium_you_learn_from_is_important](https://blog.alienate.earth/the_medium_you_learn_from_is_important/)
+- [Pessimistic_people_will_kill_you](https://blog.alienate.earth/pessimistic_people_will_kill_you/)
+- [Dynamic_wake_times](https://blog.alienate.earth/dynamic_wake_times/)
+- [Slow_drip_poison](https://blog.alienate.earth/slow_drip_poison/)
+- [I_wanna_be_software](https://blog.alienate.earth/i_wanna_be_software/)
+- [A_k_acc_manifesto](https://blog.alienate.earth/a_k_acc_manifesto/)
+- [I_dont_sleep](https://blog.alienate.earth/i_dont_sleep/)
+- [Loneliness](https://blog.alienate.earth/loneliness/)
+- [On_suicide](https://blog.alienate.earth/on_suicide/)
 - [Risk_taking_as_a_habit](https://blog.alienate.earth/risk_taking_as_a_habit/)
-- [Thought_experiments_are_a_waste_of_thoughts](https://blog.alienate.earth/thought_experiments_are_a_waste_of_thoughts/)
-- [Rokos_basilisk_is_worthless_trash](https://blog.alienate.earth/rokos_basilisk_is_worthless_trash/)
-- [Logical Inconsistencies In Not Giving To The Homeless](https://blog.alienate.earth/Logical-inconsistencies-in-not-giving-to-the-homeless/)
-- [&lpar;ai&rpar; Self Image Alignment](https://blog.alienate.earth/(AI)-self-image-alignment/)
-- [Terminally Offline](https://blog.alienate.earth/Terminally-offline/)
-- [December](https://blog.alienate.earth/December/)
-- [Hypertechnology](https://blog.alienate.earth/hypertechnology/)
-- [Instant Messaging Is Dumb](https://blog.alienate.earth/Instant-messaging-is-dumb/)
-- [I Dont Have A Dream Library You Posh Cretin](https://blog.alienate.earth/I-dont-have-a-dream-library-you-posh-cretin/)
 <!-- BLOG-POST-LIST:END -->
