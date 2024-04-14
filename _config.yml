@@ -23,7 +23,6 @@ fb_appid:
 header_pages:
   - index.md
   - about.md
-  - tags.html
 footer: '<a href="https://blog.alienate.earth/feed">RSS</a> // follow us on <a 
 href="https://twitter.com/alienatefurther">twitter</a>'
 
