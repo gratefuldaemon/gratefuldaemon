@@ -6,7 +6,7 @@ permalink: /
 
 # Links
 - [blog](https://blog.alienate.earth) // Personal blog
-- [bookclub](https://bookclub.alienate.earth) // Resources and notes from a bookclub I have with a friend, includes notes for most books I read
+- [bookclub](https://bookclub.alienate.earth) // Notes from most books I read
 - [reading](https://org.alienate.earth/reading.html) // My reading list
 - [org exports](https://org.alienate.earth) // All the files from emacs I've manually exported
 - [brain](https://brain.alienate.earth) // An export of my knowledgebase vault
