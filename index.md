@@ -7,7 +7,9 @@ permalink: /
 # Links
 - [blog](https://blog.alienate.earth) // Personal blog
 - [bookclub](https://bookclub.alienate.earth) // Notes from most books I read
-- [reading](https://org.alienate.earth/reading.html) // My reading list
+- [reading 2024](https://org.alienate.earth/reading2024.html) // A calendar like view of my year in reading
+- [reading 20XX](https://org.alienate.earth/readingyear.html) // A calendar like view of every year in books read
+- [reading todo list](https://org.alienate.earth/reading.html) // Org export of my reading TODOs
 - [org exports](https://org.alienate.earth) // All the files from emacs I've manually exported
 - [brain](https://brain.alienate.earth) // An export of my knowledgebase vault
 
