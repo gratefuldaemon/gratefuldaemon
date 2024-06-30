@@ -12,6 +12,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Macos Apps](https://blog.alienate.earth/MacOS-Apps/)
+- [Possible Spontaneous Jhana](https://blog.alienate.earth/possible-spontaneous-jhana/)
 - [The_medium_you_learn_from_is_important](https://blog.alienate.earth/the_medium_you_learn_from_is_important/)
 - [Pessimistic_people_will_kill_you](https://blog.alienate.earth/pessimistic_people_will_kill_you/)
 - [Dynamic_wake_times](https://blog.alienate.earth/dynamic_wake_times/)
@@ -20,6 +22,4 @@
 - [A_k_acc_manifesto](https://blog.alienate.earth/a_k_acc_manifesto/)
 - [I_dont_sleep](https://blog.alienate.earth/i_dont_sleep/)
 - [Loneliness](https://blog.alienate.earth/loneliness/)
-- [On_suicide](https://blog.alienate.earth/on_suicide/)
-- [Risk_taking_as_a_habit](https://blog.alienate.earth/risk_taking_as_a_habit/)
 <!-- BLOG-POST-LIST:END -->
